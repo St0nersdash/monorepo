@@ -47,7 +47,7 @@
     "url-join": "^4.0.0"
   },
   "devDependencies": {
-    "@codechecks/ban-deps-codecheck": "^0.1.0",
+    "@codechecks/ban-deps-codecheck": "^0.1.1",
     "@types/bluebird": "^3.5.26",
     "@types/execa": "^0.9.0",
     "@types/fs-extra": "^8.0.0",
